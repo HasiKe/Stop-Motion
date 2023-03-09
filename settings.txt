@@ -1,0 +1,37 @@
+################################################################
+#set camera settings
+################################################################
+
+#set resolution
+# 1920x1080, 1640x1232, 1280x960, 640x480
+resolution=1920x1080
+
+
+################################################################
+#set time
+################################################################
+
+#set start time
+# 00:00:00 to 23:59:59
+start_time=7:00:00
+
+#set end time
+# 00:00:00 to 23:59:59
+end_time=18:00:00
+
+#set day of week
+# 0,1,2,3,4,5,6 = monday to sunday
+days=0,1,2,3,4
+
+#set interval
+# 1 to 60 in minutes
+interval=1
+
+################################################################
+#Path 
+################################################################
+
+#Pictures are saved as year-month-day_hour_minute_secound.jpg (2023-03-01_08_56_58.jpg)
+#set Path were Picture are saved
+#example: /home/kevin/Bilder/
+Path=/home/kevin/Bilder/
