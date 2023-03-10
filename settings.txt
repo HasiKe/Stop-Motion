@@ -34,4 +34,4 @@ interval=1
 #Pictures are saved as year-month-day_hour_minute_secound.jpg (2023-03-01_08_56_58.jpg)
 #set Path were Picture are saved
 #example: /home/kevin/Bilder/
-Path=/home/kevin/Bilder/
+Backup_Path=/home/kevin/Bilder/
